@@ -13,3 +13,6 @@ http://jsonobject.tistory.com/369
 
 - OAuth 2.0 API 절차 정리 (google 구글 로그인 연동 후 youtube 유튜브 동영상 검색을 통해서 가져오기)
 https://steemit.com/youtube/@sooheesh/oauth-2-0-api-youtube
+
+- Go에서 OAuth2 인증하기
+https://mingrammer.com/getting-started-with-oauth2-in-go/
